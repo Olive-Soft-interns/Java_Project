@@ -3,6 +3,7 @@ package jeuxk;
 import javax.swing.JFrame;
 
 public class Main {
+	int add =0;
 	public static Scene scene ; 
 	public static void main(String[] arg) {
 	
