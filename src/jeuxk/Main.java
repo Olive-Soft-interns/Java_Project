@@ -1,5 +1,6 @@
 package jeuxk;
 
+//modified
 import javax.swing.JFrame;
 
 public class Main {
